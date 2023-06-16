@@ -37,13 +37,6 @@
                 "-fexceptions",
                 "-Ofast",
                 "-march=native",
-                "-msse4",
-                "-msse4.1",
-                "-msse4.2",
-                "-mssse3",
-                "-mavx",
-                "-mpclmul",
-                "-maes",
             ],
             "cflags": [
                 "-Wl,--whole-archive",
@@ -51,13 +44,6 @@
                 "-fexceptions",
                 "-Ofast",
                 "-march=native",
-                "-msse4",
-                "-msse4.1",
-                "-msse4.2",
-                "-mssse3",
-                "-mavx",
-                "-mpclmul",
-                "-maes",
             ],
             "link_settings": {
                 "libraries": [
